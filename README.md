@@ -2,8 +2,7 @@
 
 A small fun app to test your CSS knowledge. Find the correct CSS selectors for the 10 puzzles as fast as possible.
 
-[CCSW Modified Version](https://ccsw-csd.github.io/kata-css-speedrun/)
-[ORIGINAL](https://css-speedrun.netlify.app)
+[CCSW Modified Version](https://ccsw-csd.github.io/kata-css-speedrun/)- [ORIGINAL](https://css-speedrun.netlify.app)
 
 ## Setup
 
