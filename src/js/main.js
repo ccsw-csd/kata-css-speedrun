@@ -185,9 +185,9 @@ const checkLevel = () => {
 
 const generateWinScreen = () => {
   const tweetLink = document.querySelector('#share-tweet');
-  const winTweetText = `I've solved all #CSS puzzles on CSS Speedrun™ within ${finalResult} and all I got was this stupid tweet.
+  const winTweetText = `I've solved all #CSS puzzles on CSS Speedrun™ CCA version within ${finalResult} and all I got was this stupid tweet.
 
-https://css-speedrun.netlify.app/`;
+https://ccsw-csd.github.io/kata-css-speedrun/`;
 
   tweetLink.setAttribute(
     'href',
